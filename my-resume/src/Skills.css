@@ -1,14 +1,14 @@
 .skills {
-    margin: 20px;
+    /* margin: 20px; */
     padding: 20px;
-    background-color: #f8f8f8;
-    border-radius: 8px;
+    background-color: #233554;
+    /* border-radius: 8px; */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
   
   .skills h2 {
     font-size: 2rem;
-    color: #333;
+    color: #64ffda;
     margin-bottom: 15px;
     text-align: center;
   }
@@ -20,17 +20,17 @@
   
   .skills li {
     font-size: 1.2rem;
-    color: #555;
+    color: #64ffda;
     margin: 10px 0;
     padding: 8px;
-    border-radius: 5px;
-    background-color: #e0f7fa;
+    /* border-radius: 5px; */
+    background-color: #233554;
     transition: background-color 0.3s ease, transform 0.3s ease;
   }
   
   /* Hover effect for list items */
   .skills li:hover {
-    background-color: #80deea;
+    background-color: rgb(19, 8, 8);
     transform: translateX(10px);
   }
   

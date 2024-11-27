@@ -9,10 +9,10 @@ const Education = () => {
           <h3>Bachelor of Science in Computer Science</h3>
           <p>University of Example | 2019 - 2021 </p>
         </li>
-        <li>
+        {/* <li>
           <h3>Master of Science in Software Engineering</h3>
           <p>Example University </p>
-        </li>
+        </li> */}
       </ul>
     </section>
   );
