@@ -6,7 +6,7 @@ const Skills = () => {
     <section className="skills">
       <h2>Skills</h2>
       <ul>
-        <li> <a href="">React</a> </li>
+        <li> React </li>
         {/* <li>Node.js</li> */}
         {/* <li>JavaScript (ES6+)</li> */}
         <li>HTML5, CSS3</li>
